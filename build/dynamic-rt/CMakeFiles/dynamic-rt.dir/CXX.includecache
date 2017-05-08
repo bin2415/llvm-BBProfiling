@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/dynamic-rt/runtime.cpp
+stdio.h
+-
+stdlib.h
+-
+cstdint
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdynamic-rt.a  CMakeFiles/dynamic-rt.dir/runtime.cpp.o
+/usr/bin/ranlib libdynamic-rt.a

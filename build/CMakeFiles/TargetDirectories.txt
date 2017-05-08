@@ -1,0 +1,8 @@
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/CMakeFiles/edit_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/CMakeFiles/rebuild_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-inst/CMakeFiles/edit_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-inst/CMakeFiles/rebuild_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-inst/CMakeFiles/dynamicBBPass.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-rt/CMakeFiles/rebuild_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-rt/CMakeFiles/edit_cache.dir
+/home/bin123/llvm/llvm_example/passExample/dynamicBBPass/build/dynamic-rt/CMakeFiles/dynamic-rt.dir

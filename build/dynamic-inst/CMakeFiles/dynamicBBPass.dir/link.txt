@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared  -o libdynamicBBPass.so CMakeFiles/dynamicBBPass.dir/dynamicBBPass.cpp.o  -L/usr/local/lib 
