@@ -2,7 +2,7 @@
 
 ---
 
-This is a dynamic LLVM Pass which is to give the basicblocks id and profile the ids.
+This is a dynamic LLVM Pass which is to give the basicblocks id and profile the ids. This is the example of how to use llvm pass transform the `bc` file and call the runtime library.
 
 ### Build the pass by doing that:
 
